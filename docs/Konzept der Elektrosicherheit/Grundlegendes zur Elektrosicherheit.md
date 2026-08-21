@@ -19,3 +19,5 @@ _Quelle: [Organisation der Prüfung von Arbeitsmitteln](https://katalog.slub-dr
 
 Die Elektrosicherheit fördert das Zusammenspiel aus Organisation, Personal, Anlagen und Prozessen.
 
+Siehe auch: [[Rechtsgrundlagen]]
+
